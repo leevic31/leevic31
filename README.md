@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning design patterns and implementing them in Go
+- ⚡ I'm looking for Backend and Fullstack opportunties
+- 📫 How to reach me: leevic31@gmail.com
+
 <!--
 **leevic31/leevic31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
