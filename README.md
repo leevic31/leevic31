@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning design patterns and implementing them in Go
+- 🌱 I’m currently making open source contributions to https://github.com/cli/cli
 - ⚡ I'm looking for Backend and Fullstack opportunties
 - 📫 How to reach me: leevic31@gmail.com
 
